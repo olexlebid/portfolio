@@ -1,0 +1,25 @@
+/* Middle smoothing level, works in 99% cases */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+}
+
+/* Reset apple form styles */
+input, textarea, select, option { 
+  -webkit-appearance: none; 
+  -moz-appearance: none; 
+  appearance: none;
+  border-radius: 0; 
+  background-image: none; 
+}
+
+/* User can resize the textarea vertical only */
+textarea {
+  resize: vertical;
+}
+
+/* Hide Webflow Badge */
+.w-webflow-badge {
+	display: none!important;
+}
