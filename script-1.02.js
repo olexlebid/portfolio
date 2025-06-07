@@ -1,6 +1,5 @@
 // Redirection to Notion Portfolio
-window.location.href = "https://olexlebid.notion.site/53ec8551aecb49f7b20a744b8383653f?v=6f3ad41d279a4a00bb54ab9acc1e6374";
-
+window.location.href = "https://olexlebid.notion.site/20bb752b68aa811fa347fb17cd72f662?v=20bb752b68aa8124bf11000c8561ff7c";
 
 document.addEventListener('DOMContentLoaded', function(){
 
